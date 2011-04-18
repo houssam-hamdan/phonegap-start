@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.hh.mobile"
+	id		= "com.jqm.phonegap"
 	version 	= "1.0.0.1">
 
-	<name>HH Mobile</name>
+	<name>JQM PhoneGap</name>
 
 	<description>
-		Testing native app desc
+		jQuery Mobile with PhoneGap
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://github.com/houssam-hamdan"
+		email="houssam.hamdan@netiks.com">
+		Houssam Hamdan
 	</author>
 
 	<gap:platforms>
